@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0-varun",
+  "updated": "2026-09-20",
+  "purpose": "Machine-readable current-state manifest for the Varun MCU Eternal fic. Powers tools/mcu_verify.py.",
+  "latest_fic_chapter": 3,
+  "latest_fic_title": "The First Shore",
+  "latest_fic_file": "chapters/Chapter_03_The_First_Shore.md",
+  "canon_consumed_through": {
+    "note": "Backstory + arrival shore battle staged (Ikaris sky-kill, team-as-individuals, Sersi knife-gift, lineup). All [reported]; film-verify mandatory pre-Arc 5."
+  },
+  "next_fic_chapter": 4,
+  "next_beat": "First ATTACK order: Varun freezes (killing≠holding); uncontrolled catch saves him; first wound + regen; Ajak cost-talk (no romance)",
+  "current_state": {
+    "varun": "Order I Foundational Nascent. HOLD-BUBBLE proven (3 breaths, nose/ears bleed). Law on sand drawn. Shell-bead pair carried. Bonds up: Gilgamesh 'good wall', Makkari rematch postponed, Ikaris noticed.",
+    "team": "Proven in first battle — as individuals (canon). Villagers sheltered; first worship-risk. Ajak acknowledged Varun's law ('starts here').",
+    "firewalls": "True mission known ONLY to Ajak. Varun holds Olympia FALSE BELIEF. Romance: ZERO (lock: earliest Arc 2)."
+  },
+  "forbidden_now": [
+    "No Deviant KILL / controlled combat before Chapter 4 (Ch.3 = hold + fall, survive-via-team)",
+    "No flight before earned control (Arc 2+)",
+    "No gravity zones/anchor before training (Arc 2+)",
+    "No mission-truth for Varun before Arc 5 truth scene",
+    "No Uni-Mind before Arc 5 bracelets",
+    "No Celestial defiance before earned anchors (Arc 5+)",
+    "No 2024 cover identity before Arc 4",
+    "No romance before Arc 2 maturity (Ajak-first lock governs all)",
+    "No 2024 target powers (STATUS_PANEL §1-26 is TARGET, not current)",
+    "No digits in prose, no chapter footers, no CJK anywhere"
+  ],
+  "checker": {
+    "command": "python3 tools/mcu_verify.py",
+    "selftest": "python3 tools/mcu_verify.py --selftest",
+    "pass_definition": "exit 0 with FAIL=0 across all gates + manifest edge matches chapters on disk"
+  }
+}
