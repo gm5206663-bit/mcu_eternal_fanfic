@@ -6,18 +6,18 @@
 > **HOW TO READ THIS FILE:** §0 = LIVE entry state (Chapter 1, activation — NEW, uncalibrated, unskilled). §1–§26 = 2024 TARGET BENCHMARK (to be EARNED across 7000 years of story — NOT current power, do NOT use in Arc 1).
 
 ---
-## 0. LIVE STATE — post-Chapter Two (Domo transit, before 5000 BC)
-- **Order:** I Foundational, Nascent (days old; first bonds forming, first drill survived).
-- **Look (LOCKED 2026-09-20):** long black hair (tied with Gilgamesh's cord for drills), silver-grey eyes ("storm-sea"), very handsome and sharpening (AT-embodied per v2.0 §36), deep-brown skin, tall diver/wrestler build, deep-sea blue + gold suit.
-- **Personality (LOCKED 2026-09-20):** playful, funny, freedom-loving, curious (sparks from Ch.2) + stubborn team-loyalty + guilt-discipline + refuses forced unity + over-anchors. Core tension: loves the lawgiver, hates the leash.
-- **Body:** drill-bruised (healing), first real beating survived. No wounds carried.
-- **Gravity:** still unstable; drill-stance seed planted (Ikaris: "you hold"). No zones.
-- **Kinetic:** second instinctive catch (Ikaris rush, uncontrolled, both staggered). Still no control (State 1–2).
-- **Mind:** curiosity awake (Phastos barrage); first laugh (Makkari race); first joke (galley, landed anyway); Makkari sign-name received (two taps, sternum); team faces/names learned.
-- **Bonds:** forming, not formed — Makkari (rhythm), Gilgamesh (table), Sersi (gentleness), Ajak (commander care; check-in Ch.2 — ZERO romance, he's days old; see VARUN_AJAK_ROMANCE_LOCK).
-- **Authority:** obeys; first freedom-flinch at rigid drill (dismissed by Ikaris, noticed by Ajak).
-- **Resources:** full charge, nominal regen, zero debt. Everything EARNED forward (§23).
-- **Locks:** no combat skill yet (stance seed only), no flight, no ripple sense, no defiance, no romance before Arc 2 maturity, arrival not yet (Ch.3).
+## 0. LIVE STATE — post-Chapter Three (First Shore, c. 5000 BC Mesopotamia, Eridu-phase coast)
+- **Order:** I Foundational, Nascent (days old; first shore survived, first law drawn).
+- **Look (LOCKED 2026-09-20):** long black hair (tied with Gilgamesh's cord for drills), silver-grey eyes ("storm-sea"), very handsome and sharpening (AT-embodied per v2.0 §36), deep-brown skin, tall diver/wrestler build, deep-sea blue + gold suit — mud-caked boots from first Earth step.
+- **Personality (LOCKED 2026-09-20 + Ch.3 delta):** playful, funny, freedom-loving, curious (sparks from Ch.2) + stubborn team-loyalty + guilt-discipline + refuses forced unity + over-anchors + first Earth awe ("We are about to become someone's oldest story"). Core tension: loves the lawgiver, hates the leash. First worship-risk felt (villagers staring at golden mountain).
+- **Body:** drill-bruised healed, first shore mud-cold shock, no wounds carried. First Earth cold felt wonderful.
+- **Gravity:** HOLD-BUBBLE proven — 3 breaths ramp shelter, nose/ears bleed, law on sand drawn ("starts here" acknowledged by Ajak). ANCHOR-FEET — stand 3 breaths (Thena toe-tap, "Feet"). Still unstable, no zones.
+- **Kinetic:** third instinctive catch — CATCH on self (fall, uncontrolled) during shore arrival. Still no control (State 1–2). Second catch was Ikaris rush (Ch.2).
+- **Mind:** curiosity awake (Phastos barrage); first laugh (Makkari race); first joke (galley); Makkari sign-name received (two taps, sternum); team faces/names learned; first Earth smell (mud/salt/smoke/rot/green/fish) + first awe + first worship-risk thought.
+- **Bonds:** forming, not formed — Makkari (rhythm, rematch postponed, "Teacher's favorite" + "everyone's favorite" banter), Gilgamesh (table, "good wall" — Ch.3), Sersi (gentleness, museum ticket stub future anchor), Ajak (commander care; Ch.3 law acknowledgment "starts here" — ZERO romance, he's days old; see VARUN_AJAK_ROMANCE_LOCK), Ikaris (noticed, sky-kill witnessed), Thena (toe-tap "Feet"), Druig (knives cheekbones, "Stories end" exchange), Kingo/Sprite galley banter.
+- **Authority:** obeys; first freedom-flinch at rigid drill (Ch.2) + first law drawn on sand (Ch.3) — Ajak noticed, acknowledged. Still obeys, but lawgiver seed planted.
+- **Resources:** full charge, nominal regen, zero debt. Everything EARNED forward (§23). Shell-bead pair carried — second of two, Varun's first gift received (Ch.3).
+- **Locks:** HOLD-BUBBLE 3 breaths proven (with bleed cost), ANCHOR-FEET 3 breaths, CATCH on self uncontrolled; no combat kill yet (Ch.3 = hold + fall, survive-via-team), no flight, no gravity zones/anchor before training (Arc 2+), no ripple sense, no defiance, no romance before Arc 2 maturity (Ajak-first lock), no mission-truth (Olympia false belief), no Uni-Mind before Arc 5, no 2024 cover.
 
 ---
 
