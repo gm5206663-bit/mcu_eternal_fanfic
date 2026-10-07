@@ -42,7 +42,7 @@ Re-run after EVERY edit. If it cannot run, say so in the same breath as the chan
 - Ethics are not nerfs: consent blocks mind-reading/forced bonding, it does not block shielding civilians, stopping a Deviant, or stabilizing a building.
 
 ## Live edge
-**v2 chronological — 2026-09-20. Chapter 1 WRITTEN (World-Forge activation). Varun LOCKED. Gilgamesh lock: canon death via separation. Next: Chapter 2 (Domo transit + briefing fallout).**
+**v2 chronological — Chapters 1–3 written (latest: Chapter 3 *The First Shore*; bodies 2,890 / 2,904 / 3,424 words measured 2026-10-07). Varun LOCKED. Gilgamesh lock: canon death via separation. Next: Chapter 4.**
 
 ## ⚠️ SECURITY NOTE
 You posted your GitHub token in chat. It works (I used it to read your 5 repos), which means anyone who saw it can also use it.
