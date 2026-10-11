@@ -189,7 +189,7 @@ Varun stood at the glass with his palm pressed flat against it, feeling the ship
 
 *Falling that wasn't falling.* That was how he'd woken. That was how he'd go down.
 
-Behind him, the ten moved through departure drills — Ikaris calling intervals, Thena checking weapons that were part of her, Gilgamesh laughing at something Kingo said, Sersi quiet at another window, Phastos arguing softly with his own instruments, Sprite's mischief a bright thread, Makkari's vibration everywhere at once, Druig's cold a shadow at the edge, Ajak's command a steady hand over all of it.
+Behind him, the ten moved through departure drills — Ikaris calling intervals, Thena checking weapons that were part of her, Gilgamesh laughing at something Kingo said, Sersi quiet at another window. Phastos arguing softly with his own instruments, Sprite's mischief a bright thread, Makkari's vibration everywhere at once, Druig's cold a shadow at the edge, Ajak's command a steady hand over all of it.
 
 His. *His*, the imprint said. *Your everything.*
 

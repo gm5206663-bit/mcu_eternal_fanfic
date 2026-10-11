@@ -210,7 +210,7 @@ Varun watched, and forgot to feel sorry for himself, and the wad of wool slipped
 
 Then a shadow fell over him, small and hesitant, and he looked up.
 
-It was the girl. The one who had peeked. She stood in front of his basket with her hands clenched behind her back and her mother hovering three paces behind her, wringing wool between her fingers, and the girl stared at Varun — at the gold drying on his lip, at the mud caked to his knees, at the eyes that he knew were the wrong color for any sky she had ever seen — and then, quickly, before her courage could fail, she thrust out one fist and opened it.
+It was the girl. The one who had peeked. She stood in front of his basket with her hands clenched behind her back and her mother hovering three paces behind her, wringing wool between her fingers, and the girl stared at Varun. At the gold drying on his lip, at the mud caked to his knees, at the eyes that he knew were the wrong color for any sky she had ever seen — and then, quickly, before her courage could fail, she thrust out one fist and opened it.
 
 A bead. A shell-bead, pink-white, threaded on a frayed strand of wool. Small. Chipped. Worth nothing to anyone in the universe except the girl who had carried it, and the boy-shaped god she was giving it to.
 
@@ -230,7 +230,7 @@ Her smile went across her face like sunrise.
 
 Ikaris called the formation at sunset.
 
-They stood in a line on the sand with the ship rising behind them and the sea hissing in front — eleven against the grey-gold sky, battered, muddy, gold-seamed, unbeaten — and the villagers gathered at a careful distance and stared, and the children pointed, and nobody screamed, and that, Varun thought, limping into his place at the end of the line with Gilgamesh’s steadying hand under his elbow, that was the real victory. Not the dead beasts cooling in the surf. This. The absence of screaming.
+They stood in a line on the sand with the ship rising behind them and the sea hissing in front — eleven against the grey-gold sky, battered, muddy, gold-seamed, unbeaten. And the villagers gathered at a careful distance and stared, and the children pointed, and nobody screamed, and that, Varun thought, limping into his place at the end of the line with Gilgamesh’s steadying hand under his elbow, that was the real victory. Not the dead beasts cooling in the surf. This. The absence of screaming.
 
 Makkari, on his other side, jogged his elbow. He looked down. She signed, slow so he would not miss it: *Good wall.*
 

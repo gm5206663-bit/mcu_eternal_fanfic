@@ -67,11 +67,11 @@ Gilgamesh's grin showed teeth. "You will see. Eat first. Everything fights bette
 
 ---
 
-The galley was the warmest room on the Domo, and the loudest, and within one meal Varun understood it was the true heart of the ship — not the bridge where Ajak stood her watches, not the engine rooms where Phastos argued with his instruments, but here, where eleven places had become eleven settings without anyone making a speech about it.
+The galley was the warmest room on the Domo, and the loudest, and within one meal Varun understood it was the true heart of the ship. Not the bridge where Ajak stood her watches, not the engine rooms where Phastos argued with his instruments, but here, where eleven places had become eleven settings without anyone making a speech about it.
 
 His setting was beside Gilgamesh, across from Sersi, with Makkari's empty chair (she ate standing, moving, everywhere) and Kingo holding court at the far end.
 
-"— and then," Kingo was saying, spinning a coin of solid light across his knuckles, "the calibrator simply *hangs* in the air, in front of everyone, and Phastos makes a sound like a stepped-on instrument, and our Eleventh here catches a falling shard of cradle-glass with his bare hand and bleeds all over his own lattice — " the coin vanished, "— on his first day. *Show-off.*"
+"— and then," Kingo was saying, spinning a coin of solid light across his knuckles. "the calibrator simply *hangs* in the air, in front of everyone, and Phastos makes a sound like a stepped-on instrument, and our Eleventh here catches a falling shard of cradle-glass with his bare hand and bleeds all over his own lattice — " the coin vanished, "— on his first day. *Show-off.*"
 
 "I bled," Varun said, with dignity, around a mouthful of bread. "Bleeding is not showing off. Ask anyone."
 
@@ -119,13 +119,13 @@ Later, Varun would learn that Ikaris had come at quarter strength, at half speed
 
 Varun got up. Found the stance. Breathed the way Ajak had taught him in the cradle bay — in, out, slower.
 
-Ikaris came again. This time Varun *felt* it coming — not with his eyes, which were useless, but with his feet, with the deck, with the lean of the air — and his hands shaped themselves around absent weight, and the rush struck his crossed forearms instead of his chest, and he slid three full strides with his boots smoking on the plating and *stayed upright*.
+Ikaris came again. This time Varun *felt* it coming — not with his eyes, which were useless, but with his feet, with the deck, with the lean of the air. And his hands shaped themselves around absent weight, and the rush struck his crossed forearms instead of his chest, and he slid three full strides with his boots smoking on the plating and *stayed upright*.
 
 "Better," Ikaris said. "Again."
 
 The third rush broke his guard and folded him. The fourth put him on the deck hard enough to drive the breath out in a rush. The fifth —
 
-The fifth, something in him *refused*. Not his mind. His hands. His feet. The same unbelonging memory that had shaped his fingers since waking rose up through the new bruises and the ringing ears, and when Ikaris came he did not brace — he *gave*, the way water gives, the way Makkari's corridor had given under his running feet — and caught the rush in crossed arms and *turned* with it, and for one impossible heartbeat the unstoppable second-in-command of the Earth mission staggered sideways, off-balance, boots scraping for purchase —
+The fifth, something in him *refused*. Not his mind. His hands. His feet. The same unbelonging memory that had shaped his fingers since waking rose up through the new bruises and the ringing ears, and when Ikaris came he did not brace. He *gave*, the way water gives, the way Makkari's corridor had given under his running feet — and caught the rush in crossed arms and *turned* with it, and for one impossible heartbeat the unstoppable second-in-command of the Earth mission staggered sideways, off-balance, boots scraping for purchase —
 
 — and Varun went down anyway, because catching Ikaris was like catching a thrown mountain, and the mountain did not care that you had good form.
 
@@ -161,7 +161,7 @@ Varun was quiet. The medbay hummed. Somewhere beyond the walls, Makkari's vibrat
 
 "I do not know why the orders chafe," he said at last, honestly. "I am days old. I have obeyed nothing yet except breathing. But when he said it — *hold the line* — something in me said *whose line?* And then I was ashamed of asking." He looked at her — Prime Eternal, healer, the one who had named him out of depth and holding. "Is it wrong? To ask?"
 
-Ajak's hands stilled on his arms. For a long moment she said nothing, and in the quiet Varun saw what command cost her — saw it the way he had seen it in the cradle bay, in the voice that did not change on the words *we watch*: the knowing, and the carrying, and the truth behind the truth, held alone because no one else on the ship could hold it yet.
+Ajak's hands stilled on his arms. For a long moment she said nothing, and in the quiet Varun saw what command cost her. Saw it the way he had seen it in the cradle bay, in the voice that did not change on the words *we watch*: the knowing, and the carrying, and the truth behind the truth, held alone because no one else on the ship could hold it yet.
 
 "No," she said softly. "It is not wrong to ask. It is the asking that makes you worth commanding." She resumed her work, thumbs easing the last of the bruising. "But hear me, Varun. You were made to hold — and holding means feeling every weight. Every order you obey against your grain. Every field you stand in while the fence holds. It will cost you. Year upon year upon year, it will cost you." Her eyes met his — steady, grieved, unflinching. "And I am sorry. Before any of it. I am sorry."
 
