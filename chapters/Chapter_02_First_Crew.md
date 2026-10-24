@@ -2,6 +2,7 @@
 
 ```
 ◆ STATUS — Chapter Two: DOMO TRANSIT (before 5000 BC)
+CANON SOURCE: Eternals (2021) — pre-film span (first crew assembly era; film canon anchors reserved for consumption)
 KIND      : Eternal recruit, days old
 AGE       : newborn on this mission; prior missions wiped
 CLASS     : Order I Foundational, Nascent — drill stance seed
