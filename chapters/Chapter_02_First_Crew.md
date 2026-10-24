@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter Two: DOMO TRANSIT (before 5000 BC) · First Crew
+SOURCE: Eternals (2021) pre-film span · first crew · canon anchors reserved
+NEW: none beyond Ch.1 ledger · NEXT: the shore
+FULL CARD: canon_coverage/Cards_Archive.md
 ```
 
 ---

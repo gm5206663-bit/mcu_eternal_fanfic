@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter One: FORGE (pre-Earth, before 5000 BC) · The Weight of Waking
+SOURCE: Eternals (2021) pre-film span · forge/activation · canon anchors reserved
+NEW: gravity+kinetic first flexes (Order I Nascent) · NEXT: first crew
+FULL CARD: canon_coverage/Cards_Archive.md
 ```
 
 ---

@@ -1,7 +1,10 @@
 # Chapter Three: The First Shore
 
 ```
-◆ STATUS — Chapter Three: ARRIVAL c. 5000 BC · Mesopotamia (Eridu-phase coast) · The First Shore
+◆ STATUS — Chapter Three: ARRIVAL c. 5000 BC · The First Shore
+SOURCE: Eternals (2021) pre-film span · first Deviant shore battle · canon anchors reserved
+NEW: none (PAUSED at edge) · NEXT: first ATTACK order (revival on user word)
+FULL CARD: canon_coverage/Cards_Archive.md
 ```
 
 ---
