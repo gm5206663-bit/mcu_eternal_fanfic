@@ -1,12 +1,7 @@
 # Chapter Three: The First Shore
 
 ```
-◆ STATUS — Chapter Three: ARRIVAL c. 5000 BC · Mesopotamia (Eridu-phase coast)
-CANON SOURCE: Eternals (2021) — pre-film span (first Deviant shore battle era; film canon anchors reserved for consumption)
-POV: Varun · CAST: all eleven Eternals · NEW: none (no new mechanics)
-BOND: Makkari↗ · Ikaris↗ · Gilgamesh↗ · Ajak= · Thena= · Druig=
-POWER: HOLD-BUBBLE (ramp shelter) / ANCHOR-FEET (stand, three breaths) / CATCH on self (fall, uncontrolled)
-SEED: shell-bead, second of two (Varun's first gift received) · NEXT: the attack order
+◆ STATUS — Chapter Three: ARRIVAL c. 5000 BC · Mesopotamia (Eridu-phase coast) · The First Shore
 ```
 
 ---

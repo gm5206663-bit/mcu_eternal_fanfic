@@ -1,13 +1,7 @@
 # Chapter One — The Weight of Waking
 
 ```
-◆ STATUS — Chapter One: FORGE (pre-Earth, before 5000 BC)
-CANON SOURCE: Eternals (2021) — pre-film span (World-Forge deployment era; film canon anchors reserved for consumption)
-KIND      : Eternal, Eleventh, freshly activated
-AGE       : newborn on this mission; prior missions wiped
-CLASS     : Order I Foundational, Nascent — first flexes only
-THREAT    : the mountain's gaze (Arishem's examination)
-LAW       : the mission law is spoken — "we watch"
+◆ STATUS — Chapter One: FORGE (pre-Earth, before 5000 BC) · The Weight of Waking
 ```
 
 ---
